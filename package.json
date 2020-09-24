@@ -1,0 +1,16 @@
+{
+  "name": "botkit-test-pr-2030",
+  "version": "0.0.1",
+  "description": "Small bot to test PR/issue #2030 of Botkit",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "botkit"
+  ],
+  "author": "Christophe Bouvard",
+  "license": "ISC"
+}
