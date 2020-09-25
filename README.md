@@ -1,6 +1,6 @@
 # Scope
 
-This project is for testing the PR related the [issue #2030](https://github.com/howdyai/botkit/issues/2030) of Botkit.
+This project is for testing the PR related to the [issue #2030](https://github.com/howdyai/botkit/issues/2030) of Botkit.
 
 # Setup & run
 
